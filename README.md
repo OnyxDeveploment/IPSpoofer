@@ -30,7 +30,7 @@ Clone the repository and get started in minutes!
 
 ```bash
 # Clone the repository
-git clone https://github.com/FullPenetrationTesting/IPSpoofer.git
+git clone https://github.com/OnyxDeveploment/IPSpoofer.git
 
 # Change directory
 cd IPSpoofer
